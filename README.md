@@ -3,7 +3,7 @@
 
 ## Welcome 👋🏼
 
-I am a Data Science professional located in Guelph, Ontario. With a foundation in computer science and software engineering, I contribute to shaping impactful data stories. My expertise includes machine learning, statistical modeling, and data analysis, and I am enthusiastic about exploring innovative solutions to business problems. I enjoy delving into topics such as data privacy, ethics, and optimizing data-driven decision-making. Beyond work, I enjoy going to skate parks and connecting with nature.
+I am a Data Science professional located in Ontario. With a foundation in computer science and software engineering, I contribute to shaping impactful data stories. My expertise includes machine learning, statistical modeling, and data analysis, and I am enthusiastic about exploring innovative solutions to business problems. I enjoy delving into topics such as data privacy, ethics, and optimizing data-driven decision-making. Beyond work, I enjoy going to skate parks and connecting with nature.
 <!--
 
 
